@@ -7,5 +7,8 @@ redirect_from:
   - /resume
 ---
 
-<embed src="../images/AlessioBuccinoCV.pdf" width="800px" height="2100px" />
+Research
+=========
+
+My research focuses on computational neuroscience and involves working with multi-electrode electrophysiological recordings, including MEG and EEG to enhance neuronal data analysis using various methods and improve real-time signal analysis for neurofeedback applications. 
 

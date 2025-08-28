@@ -40,7 +40,7 @@ author_profile: true
 </p>
 
 <p>
-  <a href="https://www.nature.com/articles/s41598-025-95351-w">
+  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10480515">
     <b>Parameterized Cortical Power Spectra as a Novel Neural Feature for Real Time BCI</b>
   </a><br>
   <i>2024 International Winter Conference on Brain-Computer Interface (BCI)</i><br>
@@ -48,7 +48,7 @@ author_profile: true
 </p>
 
 <p>
-  <a href="https://www.nature.com/articles/s41598-025-95351-w">
+  <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7612198/pdf/EMS140681.pdf">
     <b>A modulated template-matching approach to improve spike sorting of bursting neurons</b>
   </a><br>
   <i>2021 IEEE Biomedical Circuits and Systems Conference (BioCAS)</i><br>
@@ -57,7 +57,7 @@ author_profile: true
 
 
 <p>
-  <a href="https://www.nature.com/articles/s41598-025-95351-w">
+  <a href="https://iopscience.iop.org/article/10.1088/0253-6102/71/10/1241/pdf">
     <b>Modeling of neurodegenerative diseases using discrete chaotic systems</b>
   </a><br>
   <i>Communications in Theoretical Physics</i><br>
@@ -65,7 +65,7 @@ author_profile: true
 </p>
 
 <p>
-  <a href="https://www.nature.com/articles/s41598-025-95351-w">
+  <a href="https://www.sciencedirect.com/science/article/pii/S0960077918302236">
     <b>A new chaotic model for glucose-insulin regulatory system</b>
   </a><br>
   <i>Chaos, Solitons & Fractals</i><br>
@@ -73,7 +73,7 @@ author_profile: true
 </p>
 
 <p>
-  <a href="https://www.nature.com/articles/s41598-025-95351-w">
+  <a href="https://onlinelibrary.wiley.com/doi/pdf/10.1155/2018/6815190">
     <b>A novel approach to numerical modeling of metabolic system: Investigation of chaotic behavior in diabetes mellitus</b>
   </a><br>
   <i>Complexity</i><br>
