@@ -29,17 +29,19 @@ author_profile: true
 </p>
 
 <p>
-<a href="https://www.nature.com/articles/s41598-025-95351-w">
-<b>Prediction of acoustic tinnitus suppression using resting-state EEG via explainable AI approach</b></a><br>
-<i>IEEE Transactions on Biomedical Circuits and Systems (2024)</i><br>
-<b>Payam S Shabestari<b>, Stefan Schoisswohl, Zino Wellauer, Adrian Naas, Tobias Kleinjung, Martin Schecklmann, Berthold Langguth, Patrick Neff
+  <a href="https://www.nature.com/articles/s41598-025-95351-w">
+    <b>Prediction of acoustic tinnitus suppression using resting-state EEG via explainable AI approach</b>
+  </a><br>
+  <i>IEEE Transactions on Biomedical Circuits and Systems (2024)</i><br>
+  <b>Payam S Shabestari</b>, Stefan Schoisswohl, Zino Wellauer, Adrian Naas, Tobias Kleinjung, Martin Schecklmann, Berthold Langguth, Patrick Neff
 </p>
 
 # Master Thesis
 
 <p>
-<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=W5hHHuIAAAAJ&sortby=pubdate&citation_for_view=W5hHHuIAAAAJ:eQOLeE2rZwMC">
-<b>Improving spike sorting performance of bursting neurons</b></a><br>
-<i>Master thesis, Polytechnic University of Milan / ETH Zurich (2020) </i><br>
-<b>Payam S Shabestari</b>
+    <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=W5hHHuIAAAAJ&sortby=pubdate&citation_for_view=W5hHHuIAAAAJ:eQOLeE2rZwMC">
+    <b>Improving spike sorting performance of bursting neurons</b>
+    </a><br>
+    <i>Master thesis, Polytechnic University of Milan / ETH Zurich (2020) </i><br>
+    <b>Payam S Shabestari</b>
 </p>
