@@ -1,14 +1,14 @@
 # main links links
 main:
+  - title: "CV"
+    url: /cv/
+
   - title: "Publications"
     url: /papers/
     
   - title: "Software"
     url: /software/
     
-  - title: "CV"
-    url: /cv/
-
   - title: "Talks"
     url: /talks/    
         
