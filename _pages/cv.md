@@ -41,15 +41,33 @@ redirect_from:
 
 ## [Awards and Grants](#)
 
+- **SNSF PhD Mobility Grant** — *19.100 CHF*  
+  Harvard Medical School and Massachusetts General Hospital (6 months)
+
+- **GRC Travel Grant UZH** — *4.900 CHF*  
+  Harvard Medical School and Massachusetts General Hospital (6 months)
+
 
 ## [Teaching](#)
 
-  - Biosignals and Engineering; Challenges in M/EEG Processing (*Sep 2023*)
-  - Introduction to Biomedical Engineering (*Sep 2016*)
-  - Electromagnetics (*Sep 2015*)
+- Programming in Biology (*Sep 2024*)
+- Biosignals and Engineering; Challenges in M/EEG Processing (*Sep 2023*)
+- Introduction to Biomedical Engineering (*Sep 2016*)
+- Electromagnetics (*Sep 2015*)
 
 ## [Supervision](#)
+- Philip Aruliah, BSc in Psychology @ UZH
+
+  *ASMR*
+- Philip Aruliah, BSc in Psychology @ UZH
+  
+  *ASMR*
+
+  
 
 ## [Journal Revisions](#)
+
+- Journal of Psychophysiology
+- Neuromodulation Journal
 
 
