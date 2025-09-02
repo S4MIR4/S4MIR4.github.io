@@ -58,12 +58,7 @@ redirect_from:
 ## [Supervision](#)
 - Philip Aruliah, BSc in Psychology @ UZH
 
-  *ASMR*
-- Philip Aruliah, BSc in Psychology @ UZH
-  
-  *ASMR*
-
-  
+  *Impact of motor-imagery based neurofeedback on speech production*
 
 ## [Journal Revisions](#)
 
