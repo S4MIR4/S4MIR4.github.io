@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "About Me"
 title_separator          : "-"
-name                     : &name "Samira Baghbanbari"
+name                     : &name "SAMIRA Baghbanbari"
 description              : &description "PhD student at Zurich Neuroscience Center (ZNZ).. I'm interested in signal processing, computational neuroscience, machine learning and neurofeedback."
 url                      : https://S4MIR4.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
