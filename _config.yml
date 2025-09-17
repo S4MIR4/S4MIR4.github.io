@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "About Me"
 title_separator          : "-"
 name                     : &name "SAMIRA Baghbanbari"
-description              : &description "PhD student at Zurich Neuroscience Center (ZNZ).. I'm interested in signal processing, computational neuroscience, machine learning and neurofeedback."
+description              : &description "MSc graduate from Leslie Dan Faculty of Pharmacy, University of Toronto.. I'm interested in signal processing, computational chemistry, machine learning in organic and inorganic systems"
 url                      : https://S4MIR4.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "S4MIR4/S4MIR4.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Payam S. Shabestari"
-  avatar           : "profile.png"
-  bio              : "PhD student at Zurich Neuroscience Center (ZNZ). I'm interested in signal processing, computational neuroscience, machine learning and neurofeedback."
+  name             : "Samira Baghbanbari"
+  avatar           : "Pic-CV.jpg"
+  bio              : "MSc graduate from Leslie Dan Faculty of Pharmacy, University of Toronto.. I'm interested in signal processing, computational chemistry, machine learning in organic and inorganic systems."
   location         : "Zurich, Switzerland"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=alessio+buccino"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "payamsash"
+  github           : "S4MIR4"
   google_plus      :
   keybase          :
   instagram        :
