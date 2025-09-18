@@ -11,7 +11,16 @@ redirect_from:
 Research
 =========
 
-My research focuses on computational neuroscience and involves working with multi-electrode electrophysiological recordings, including MEG and EEG to enhance neuronal data analysis using various methods and improve real-time signal analysis for neurofeedback applications. 
+I am a recent Master’s degree student with a strong foundation in computational chemistry, data science, drug
+design, materials-focused modeling, and molecular simulations. During my MSc, I applied Density Functional
+Theory (DFT) and molecular dynamics simulations to investigate charge transfer mechanisms through Charge
+Decomposition Analysis and molecular interactions in axonal, synaptic, and astrocytic neuronal gap junctions,
+as well as the overlying water layers that serve as a medium for partial electronic charge transfer from glial cells
+to synaptic membranes. My primary analytical tool is Python, which I use to develop custom scripts for data
+processing, automation, and visualization. I also have extensive experience with Bash and command-line tools
+for managing large-scale computational workflows on high-performance computing (HPC) clusters. My research
+so far has focused on applying quantum mechanical (QM) methods, particularly DFT, to a range of metallic and
+biochemical systems.  
 
 <style>
   figure { display: flex; flex-direction: column; align-items: center; }
