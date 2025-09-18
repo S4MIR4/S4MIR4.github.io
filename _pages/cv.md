@@ -9,19 +9,23 @@ redirect_from:
 
 ## [Biography](#)
 
-**Date of Birth:** 16 Aug 1995\
-**Phone:** +41 79 423 80 38\
-**Email:** [payam.sadeghi74@gmail.com](mailto:payam.sadeghi74@gmail.com)  
-**Website:** [https://payamsash.github.io](https://payamsash.github.io)  
+<!-- **Date of Birth:** 16 Aug 1995\ -->
+**Phone:** +41 77 252 28 37\
+**Email:** [samirabaghbanbarii@gmail.com](mailto:samirabaghbanbarii@gmail.com)  
+**Email:** [samira.baghbanbari@chem.uzh.ch](mailto:samirabaghbanbarii@gmail.com) 
+**Email:** [samira.baghbanbari@uwaterloo.ca](mailto:samirabaghbanbarii@gmail.com) 
+**Email:** [samira.baghbanbari@alumni.utoronta.ca](mailto:samirabaghbanbarii@gmail.com) 
+**Website:** [https://S4MIR4.github.io](https://S4MIR4.github.io)  
 
 
 ## [Education](#)
 
-- **Neuroscience Center Zurich, University of Zurich & ETH Zurich, Switzerland** — *Oct 2022*  
-  PhD Thesis: *Advanced Neurofeedback in Tinnitus (ANT)*
+- **Krembil Discovery Tower, Brain Institute, UHN, Leslie Dan Faculty of Pharmacy, University of Toronto, Canada** — *Sep 2022*  
+  MSc Thesis: *Computational Characterization of Electronic Charge Transfer and Other Metrics in Interfacial Phospholipid-Water Layers at Neuronal Gap Junctions*
 
-- **Department of Biosystems Science and Engineering, ETH Zurich, Switzerland** — *Nov 2020*  
-  MSc Thesis: *Improving spike sorting performance of bursting neurons*
+- **Department of Chemistry, York University, Toronto, Canada** — *Sep 2018*  
+  BSc Thesis: *Ligand electrochemical parameter approach to molecular design: σ-donation,
+π-back donation and other metrics in molybdenum dinitrogen complexes*
 
 - **Department of Biomedical Engineering, Polytechnic University of Milan, Italy** — *Feb 2019*  
   MSc in Biomedical Engineering (GPA: 106/110)
@@ -41,10 +45,10 @@ redirect_from:
 
 ## [Awards and Grants](#)
 
-- **SNSF PhD Mobility Grant** — *19.100 CHF*  
+- **SNSF PhD Mobility Grant** — *19,100 CHF*  
   Harvard Medical School and Massachusetts General Hospital (6 months)
 
-- **GRC Travel Grant UZH** — *4.900 CHF*  
+- **GRC Travel Grant UZH** — *4,900 CHF*  
   Harvard Medical School and Massachusetts General Hospital (6 months)
 
 
