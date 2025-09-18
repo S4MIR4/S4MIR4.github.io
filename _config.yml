@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "About Me"
 title_separator          : "-"
-name                     : &name "SAMIRA Baghbanbari"
+name                     : &name "Samira Baghbanbari"
 description              : &description "MSc graduate from Leslie Dan Faculty of Pharmacy, University of Toronto.. I'm interested in signal processing, computational chemistry, machine learning in organic and inorganic systems"
 url                      : https://S4MIR4.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -86,7 +86,7 @@ author:
   location         : "Zurich, Switzerland"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=alessio+buccino"
-  googlescholar    : "https://scholar.google.com/citations?user=W5hHHuIAAAAJ&hl=en&oi=ao"
+  googlescholar    : "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=samira+baghbanbari&btnG="
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "S4MIR4"
+  github           : "https://github.com/S4MIR4"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/payam-sadeghi-2a7312112/"
-  orcid            : "https://orcid.org/0000-0002-2647-4891"
+  linkedin         : "https://www.linkedin.com/in/samira-b-38a712136/"
+  orcid            : "https://orcid.org/0009-0009-3051-4962"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
