@@ -27,8 +27,8 @@ redirect_from:
   BSc Thesis: *Ligand electrochemical parameter approach to molecular design: σ-donation,
 π-back donation and other metrics in molybdenum dinitrogen complexes*
 
-- **Department of Biomedical Engineering, Polytechnic University of Milan, Italy** — *Feb 2019*  
-  MSc in Biomedical Engineering (GPA: 106/110)
+- **Shiraz University of Medical Sciences, Iran** — *Sep 2014*  
+  BSc in Anesthesia Assistant 
 
 - **Department of Biomedical Engineering, Polytechnic University of Tehran, Iran** — *Sep 2018*  
   BSc in Biomedical Engineering (GPA: 3.8/4)
